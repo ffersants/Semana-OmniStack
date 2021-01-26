@@ -1,0 +1,20 @@
+234433723 "Aulas/V\303\255deos/Funcionalidades avan\303\247adas - Semana OmniStack 11.0.mp4"
+228527095 "Aulas/V\303\255deos/Construindo a interface web - Semana OmniStack 11.0.mp4"
+197137476 "Aulas/V\303\255deos/Desenvolvendo o app mobile - Semana OmniStack 11.0.mp4"
+177891149 "Aulas/V\303\255deos/Conhecendo a OmniStack - Semana OmniStack 11.0.mp4"
+161168532 "Aulas/V\303\255deos/Criando a base da aplica\303\247\303\243o - Semana OmniStack 11.0.mp4"
+11866112 backend/node_modules/sqlite3/build-tmp-napi-v6/Release/node_sqlite3.pdb
+8121493 backend/node_modules/sqlite3/build-tmp-napi-v6/Release/obj/global_intermediate/sqlite-autoconf-3320300/sqlite3.c
+7685994 backend/node_modules/sqlite3/build-tmp-napi-v6/Release/sqlite3.lib
+7499021 backend/node_modules/sqlite3/build-tmp-napi-v6/deps/Release/obj/sqlite3/sqlite3.obj
+6232528 backend/node_modules/sqlite3/build-tmp-napi-v6/Release/node_sqlite3.ilk
+2904404 backend/node_modules/sqlite3/deps/sqlite-autoconf-3320300.tar.gz
+2848951 Aulas/Back-end/node_modules/sqlite3/deps/sqlite-autoconf-3300100.tar.gz
+2387456 backend/node_modules/sqlite3/lib/binding/napi-v6-win32-x64/node_sqlite3.node
+2387456 backend/node_modules/sqlite3/build-tmp-napi-v6/Release/node_sqlite3.node
+2245120 Aulas/Back-end/node_modules/sqlite3/lib/binding/node-v72-win32-x64/node_sqlite3.node
+1763606 backend/node_modules/sqlite3/build-tmp-napi-v6/Release/obj/node_sqlite3/statement.obj
+1573990 backend/node_modules/sqlite3/build-tmp-napi-v6/Release/obj/node_sqlite3/database.obj
+1434361 "Question\303\241rio - Semana Omnistack.pdf"
+1282812 backend/node_modules/sqlite3/build-tmp-napi-v6/Release/obj/node_sqlite3/backup.obj
+1130316 Aulas/dia23-03/Wallpapers_OmniStack_11/Wallpaper OmniStack 11 - 2560x1600.jpg
