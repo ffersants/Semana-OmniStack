@@ -1,0 +1,5 @@
+22b09443fe3cb934f9b890ca6eca23c9b67149ad 177891149 Conhecendo a OmniStack - Semana OmniStack 11.0.mp4
+acd89859cb62475c38c2abc0693f018bb06eff49 228527095 Construindo a interface web - Semana OmniStack 11.0.mp4
+66af16ef6db9dcfb2d569d3a3d5a83bc599c9d23 161168532 Criando a base da aplicação - Semana OmniStack 11.0.mp4
+d0d450a2c3e69d9f2b439ed0fe68463ab25b8314 197137476 Desenvolvendo o app mobile - Semana OmniStack 11.0.mp4
+f74301247c1a490bfe964ac61e0eb9403beda803 234433723 Funcionalidades avançadas - Semana OmniStack 11.0.mp4
